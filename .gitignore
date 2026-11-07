@@ -1,0 +1,17 @@
+.dart_tool/
+.pub-cache/
+build/
+.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/google-services.json
+*.jks
+*.keystore
+lib/firebase_options.dart
+firebase.json
+.firebaserc

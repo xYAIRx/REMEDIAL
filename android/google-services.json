@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581344343632",
+    "project_id": "remedial-30c38",
+    "storage_bucket": "remedial-30c38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581344343632:android:67a7d3f63fd042e60ac355",
+        "android_client_info": {
+          "package_name": "com.example.mantenimiento_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBOlHWaZQO20WBHrrNh0qwgNXhc9SKkUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
